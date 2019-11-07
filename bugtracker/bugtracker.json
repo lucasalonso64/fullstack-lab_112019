@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "clever-environs-236516",
+  "private_key_id": "3bb90a0b54d70ef3c96c6fc783c05f9f6558e948",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDFHxbmBym8+yQS\noGoCVOdcmo81dk9alcSbEM5Imn0OVQ4L0PArjQdcirCGyrfVO7virqj6EDu49m+N\nvcmm4jvlRy8MlziRIoNsjGFLXfFbXpemKQk8tSFrJZ75Rw/S750SSSN7IjmlWqr5\neS1sQaQW6QuwhAMo4JmT2spEq5suereMP5iGdI+43Eri5eapPuJ+Ld69AbANBlly\nvRfg0yX92TDBStmLOOkhd+GmpijQj+rWgSIWWLUJ//frILQb9IcZKxC2uGXK/ZeW\n5rhw5wsC8w204ro00E06IYEmn4spuBu0vHYBQQRINSJj53b+87rdC4TF0T+j1dmI\n4A1OftyfAgMBAAECggEADYZHC2xFZFZ00KRZ8aQCpbtjBP+DjUsGTL9X7+pNlzyl\ntJDW0Z4g+av4VZ82ArbQ+soSBOo1NskNuVNisQUHqAD8zOfZNTgBfWKaUFH3O9Yf\nIILjQ9uHmfLgV+kUwFu5UqZa/VlJTDuOzIQQZkOQrxO5PhiooNbcIqVZyGFfyc35\nyR8goZX1GOFiwIYhhW4eZ8T/tVs7ZzfEOlB8BJZL5dAv/jij1Fkpa9BMZvgWeM6t\nssZqrfjhe+OxON47sjuJONQDCzkQNomzdcdcq9mMvpm03GHCoYnikBtMMwXM7qSQ\n6DULJG5QjYX3xZsBZU6Df7SXcU03k4rf7wWVVGKTkQKBgQDsgtofOQ8Wuiqry09V\nmyeFdHsAZRlm4N9w0EQyE+BtJTo0hk7NrmfMQEwhx2uYMVqpO+I8jPMSPZG/rQ2C\n6V9r3ZyL8D5aNwWlDb0EP2etLofIMW9ew6DdoNnskX0VOYyrZHn0OJQ7hpW6zWxD\n9MKG2TII3nTOjTp0chBUVJ8h8QKBgQDVXVIhcTsTUk0ZMMJfxqHVkl9KuVLLAuw2\ntsHA0YNrJ5UeT2M0059lEn2xSCg8XeWp0qLpukVM5kSm8hJc7Jkt//Z8ZIurcMnq\nw/wpAhaMFFRNG+kmtHq5ab+T/reZhk10FYHwaA/SBGdzdEbvRYWPjRTxOHtVvuAz\nMW08lDJXjwKBgC4R9ycp2DSXIwS/375PMM2gOO2ExAP0PdId34rZsFfSbpoYp3UN\nSg7RX4Mc82p8AqsAjTs6QYcGE0QBE6ayivHaA0qHC75LBYB3QqB3MVzcuXpXltgg\nx08krA6W8ISX5zzjn5XhB47o0nXG2hYKsXHPER4FJz+s5vwT0/Z5XV4hAoGADfrN\nVM+cdUmhL5NYSPo0xE+Q2s6FtDN+0p7q1v1jRPQU+yVsdJuhB/hML/9wU3Q7hgL9\nFZ9UxxMXUHDv7xK5fqAUwFW+KP9821r3/J/cZlU2qM65WgXdPKTHHqVD1lVMYdy+\n5MeMsdAEDzaBJ1BAzgUKaDuxKQ8WlYQZiiyTl9UCgYEAwAYtwhbL2qXJuxkmDBqw\ncrBcm3G2ldZRersewRKt4/n/esjDSLxmO+xkbs2a3kE73pJoWBjwEOpv3e7qYdqi\n731iOST5AH977kSSPq/rbkzg+U4C4oTty9i9gDvLebPMPr9Af85l7d7zx71LBmeN\nLwlyqX20TNygT1bc0y8MjQk=\n-----END PRIVATE KEY-----\n",
+  "client_email": "buttracker@clever-environs-236516.iam.gserviceaccount.com",
+  "client_id": "103232274577708424954",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/buttracker%40clever-environs-236516.iam.gserviceaccount.com"
+}
